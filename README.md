@@ -1,6 +1,5 @@
 # Pig Game
 
-## Repository Description
 A fun and interactive web-based Pig Game implemented with HTML, CSS, and JavaScript. This classic dice game allows two players to take turns rolling a die, aiming to reach a target score without losing their turn by rolling a 1. The game features a clean interface and responsive design for both desktop and mobile devices.
 
 ## Table of Contents
