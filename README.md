@@ -1,6 +1,6 @@
 # Pig Game
 
-A fun and interactive web-based Pig Game implemented with HTML, CSS, and JavaScript. This classic dice game allows two players to take turns rolling a die, aiming to reach a target score without losing their turn by rolling a 1. The game features a clean interface and responsive design for both desktop and mobile devices.
+A fun and interactive web-based Pig Game implemented with HTML, CSS, and JavaScript. This classic dice game allows two players to take turns rolling a die, aiming to reach a target score without losing their turn by rolling a 1.
 
 ## Table of Contents
 - [Description](#description)
@@ -13,7 +13,7 @@ A fun and interactive web-based Pig Game implemented with HTML, CSS, and JavaScr
 - [License](#license)
 
 ## Description
-The Pig Game is a simple yet engaging two-player dice game where players take turns rolling a single die to accumulate points. The goal is to reach a predetermined score (default is 100) to win. If a player rolls a 1, they lose their current turn score and pass the turn to the other player. The game includes a responsive UI and intuitive controls for an enjoyable experience.
+The Pig Game is a simple yet engaging two-player dice game where players take turns rolling a single die to accumulate points. The goal is to reach a predetermined score (default is 100) to win. If a player rolls a 1, they lose their current turn score and pass the turn to the other player.
 
 ## Features
 - Two-player gameplay with turn-based mechanics
@@ -21,7 +21,6 @@ The Pig Game is a simple yet engaging two-player dice game where players take tu
 - Option to "hold" current score or continue rolling
 - Responsive design for mobile and desktop
 - Visual feedback for dice rolls and game state
-- Optional sound effects for enhanced immersion
 
 ## How to Play
 1. Open the game in your browser.
@@ -51,7 +50,6 @@ The Pig Game is a simple yet engaging two-player dice game where players take tu
 - **HTML5**: Structure of the web game
 - **CSS3**: Styling and animations
 - **JavaScript**: Game logic, dice mechanics, and interactivity
-- **Optional**: External libraries like Font Awesome for icons or Google Fonts for typography
 
 ## Contributing
 Contributions are welcome! To contribute:
